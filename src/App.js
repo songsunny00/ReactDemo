@@ -4,7 +4,7 @@
  * @Description: 
  * @Github: https://github.com/songsunny00
  * @Date: 2019-03-20 14:08:01
- * @LastEditTime: 2019-03-20 16:22:09
+ * @LastEditTime: 2019-03-26 16:19:47
  */
 
 //ctrl+alt+i 生城头部信息快捷键
@@ -16,7 +16,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        你好react  根组件
+        你好react
       </div>
     );
   }
